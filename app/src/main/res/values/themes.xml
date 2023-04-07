@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Iprating" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="android:statusBarColor">@color/purple_500</item>
+    </style>
+</resources>
